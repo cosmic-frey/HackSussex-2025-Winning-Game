@@ -1,11 +1,13 @@
-# I'm A HackSussex Three Category Winner??!!??
+# I'm A HackSussex Winner??!!??
 Soooo we won three categories?? Mental! This our first in person hackathon, and really we were just aiming to win something (even if it was Hackiest Hack). Over the month of November I began familiarising myself with Javascript, as I felt this familiarity could be helpful in the long run. I did not however, predict that this decision would result in winning my fist Hackathon - especially as a two-person team (we'll get onto that later). 
 
 **As a WARNING: This is a very informal blog-style README. I will be adding a more proffessional one later, but I thought it would be best to document the process of making Password Quest whilst it was still fresh in my mind. I also want this as something to look back on, because I was in shock for two days after winning and the weekend went by in a blur.**   
   
 ## The Other Entries:
 Before I get started, I want to highlight the other amazing entries (as well as the one that got banned as I thought that one was actually one of the best). Check out all the other amazing entries in the Devpost link below:
+[https://hacksussex-gamejam-2025.devpost.com/project-gallery]
 
+The project that got banned, in my opinion, was banned for unfair reasons as they changed the name (that had sexual connotations) prior to judging, so the reason for it being banned no longer applied. The group that made it are absolutely cracked and honestly are more proficient and knowledgable than some of the people iI know in tech. The mobile app they made was functional, interactive and funny - if I get a link to their GitHub I'll link it down below. (Also, they helped me in the last few minutes of submission when all my backend code broke, I couldn't make my URL work, and I was about to cry. The speed they went through my checks was off the charts, and although they couldn't help me fix whatever I did wrong with the backend code, they helped me with the mistake I had made with creating my URL (which we were so greatful for), and also introduced me to GitHub Desktop (which embarassingly I didn't know existed).)
 
 ## The Game:
 
@@ -57,7 +59,9 @@ This was the crisis I had the evening before the competition. I have some friend
 
 ### Why Phaser:
 Whilst using my partner as a rubber duck to talk this through (thanks Steve), I realised that what I really wanted was a language where everything is spaced out seperately in a clear and organised way - just like my Tamaghosty project!. But - Javascript is just visual, you can't make games with it... right???   
-Yeah so turns out (through asking GitHub copilot if you can make a game with Javascript) that Phaser very much exists (my newbie-ness shining through, I promise I'm learning).
+   
+Yeah so turns out (through asking GitHub copilot if you can make a game with Javascript) that Phaser very much exists (my newbie-ness shining through, I promise I'm learning). On the train ride to Brighton (I got up at 5:30am to arrive at 9:15am) I researched as much as I could about Phaser. At that point I was about 60% sure we were going to use Phaser, but I needed to make sure that the pros outweighed the cons.  
+
 
 ## Planning process:
 After installing all our packages, implementing the basic backbone of our code (with the help of resources supplied by Phaser for windows), and making initial loading screens, we got to work brainstorming on paper. 
