@@ -37,9 +37,9 @@ These winning categories were:
    
 ## Game structure - Password Quest:  
 (This is a written breakdown of our game structure however, including video game stills if you are a more visual learner.)   
-**1) Intro-Video:**  
+**1) Intro-Video:**    
 The intro video sets the scene for the plot. To make this we used AI generated art that we pixelised for the opening scene, Canva, Piskel (for the dragon and crying scene) and ElevenLabs for the narration and background music.    
-**2) Concept:**   
+**2) Concept:**     
 You need to collect Password tokens (coins) in order to defeat the dragon at the final level. There are elements of the first two levels that will try to stop you from achieving this. The game has setting split into Easy, Medium and Hard for all three levels (i.e. if Easy is chosen at the beginning, then all levels (1, 2 and 3) will be in Easy mode unless the game is restarted and a new mode is selected).   
 **3) Level 1:**   
 Level 1 was set up as a moving platformer, and the aim of this level was to collect as many Password tokens (coins) as possible, and avoid colliding with shadow threats by casting spells to explode them (as they will steal your password tokens) in 60 seconds. This level is made harder in Medium and Hard by the platform speed increasing, the fixed probability of a shadow threat appearing over a set time period increasing, and the time period for the probability of a shadow threat appearing decreasing (more periods in 60 seconds = more likely).   
@@ -47,20 +47,21 @@ Level 1 was set up as a moving platformer, and the aim of this level was to coll
 This level is based around the importance of **altruism.** Level 2 is based around flappy bird mechanics (called 'tap to fly' in Phaser for Desktop) and lasts 45 seconds. The aim to collect Password tokens (coins) is still the same in Level 2, however you need to collect warning signals in order to take these tokens into Level 3. Collecting a warning token means that you are warning people back home that your personal data has been compromised, which is important as this can help them protect their own data too. If you collide with a shadow threat, you lose all coins and warning signals collected so far in Level 2 and fall to the bottom of the page - so you need to collect more quickly before the time runs out! This level is made harder in Medium and Hard modes by the screen scrolling faster (like in Level 1) and the density of shadow threats increasing (so they are harder to avoid).   
 **5) Level 3:**   
 This is The Boss Fight Level. The more warning signals you collect in Level 2, the more spells you have in reserve. The protagonist stands on one platform and the dragon stands on the other. Each take turns taking two shots at the other, the protagonist uses magic to attack and the dragon uses fire balls to attack (both based off the same particle system as in Level 1). You can jump to avoid being hit (currently the physics for jumping needs to be fixed for the Easy mode as it is quite hard), and so can the dragon! The probability that the dragon successfully avoids being hit increases in Medium and Hard modes.   
-**6) Scoring:**
-Your score is calculated by the total number of coins you collect divided by the time it takes you to defeat the dragon. These scores are seperated by mode so that a higher score in Easy mode doesn't trump an equally impressive score in Medium/Hard mode.   
+**6) Scoring:**    
+Your score is calculated by the total number of coins you collect divided by the time it takes you to defeat the dragon. These scores are seperated by mode so that a higher score in Easy mode doesn't trump an equally impressive score in Medium/Hard mode.     
 **7) Educational End-screen:**   
-When you defeat the dragon, you are given your overall score and taken to an end screen. The educational end screen contains links to a variety of online resources related to online safety and phishing scams from reputable UK institutions (including a variety for children/young people, families, working professionals, adults and the elderly). This end-screen is Narrated by the same narrator as the intro-video, and rounds off your victory by warning you of the dangers of phishing scams in the real world and highlighting the links on the page to encourage you to learn more.
+When you defeat the dragon, you are given your overall score and taken to an end screen. The educational end screen contains links to a variety of online resources related to online safety and phishing scams from reputable UK institutions (including a variety for children/young people, families, working professionals, adults and the elderly). This end-screen is Narrated by the same narrator as the intro-video, and rounds off your victory by warning you of the dangers of phishing scams in the real world and highlighting the links on the page to encourage you to learn more.     
 
 
 ## How Tasks were split-up:
 Initially we were supposed to be part of a larger team. However, pessimistically I dreamt that this all went wrong the night before (I hate having prophetic dreams the night before a big deadline), so I readied myself for this eventuality. Our other two teammates had uni deadlines (which is so valid, I feel for anyone who has January exams), and my teammate (Jabez, one of my closest friends from Sixth Form) had committments in the evening which were to watch his flatmate in a performace and sleep 6-9 hours (both valid and I would have done the same in his position, I did regret onl sleeping 4-5 hours the following Monday).   
+   
 This did complicate the division of tasks, as many of these timings were unknown, so - we decided to do something **bold** and somewhat rash:
 - I (The **Biologist**) would work on the logic
 - He (The **Theoretical Physicist**) would work on the graphics and anything else he had time for.
 This put both of us majorly out of our comfort zones, and also forced us to engage in "valuable learning opportunities" (helpful as this was one of the judging criteria).
 
-I have a tendency to over-reach in projects and not get them finished (never take me to pottery painting it will be the most stressful experience of your life), so I made sure we entered this competition with a simplicity-focussed mindset (which went out of the window a little bit when things started going a bit too well - I'm too much of an over-achiever). This simplicity was helpful as it focussed the initial stages of work so that we had something playable by the first evening (Level 1).
+I have a tendency to over-reach in projects and not get them finished (never take me to pottery painting it will be the most stressful experience of your life), so I made sure we entered this competition with a simplicity-focussed mindset (which went out of the window a little bit when things started going a bit too well - I'm too much of an over-achiever). This simplicity was helpful as it focussed the initial stages of work so that we had something playable by the first evening (Level 1).   
    
 
 ## The Decision-making Process:
