@@ -225,10 +225,13 @@ I am so thankful for how helpful people were at this event, and how good they we
 - People, who were previously not interested in chatting, will come up to talk to you after you win
 - Having a group of friends to form a team and stay over night at the event sounds super fun and I want to do that next time (also more optimal, as the hour I spent going to our accomodation and back could have been spent sleeping/fixing bugs)
 - If you're blonde or have coloured hair, you will be referred to by its colour (helpful because you're recognisable, less helpful because no one will remember your name).
-- When you say you do Biology during judging, lots of suspicious whispering will commence
-  - When you follow this up by saying you go to an Oxbridge University, the whispering becomes less suspicious, but still continues.
 - If the judges ask more questions, this is a good sign
   - If they come up to you to 'clarify' questions after judging, this is an even better sign
+
+**Comments noted in Jest:**
+- When you say you do Biology during judging, lots of suspicious whispering will commence
+  - When you follow this up by saying you go to an Oxbridge University, the whispering becomes less suspicious, but still continues.
+
 
 
 
