@@ -72,7 +72,8 @@ I have a tendency to over-reach in projects and not get them finished (never tak
    
 
 ## The Decision-making Process:
-So, why Phaser and why Javascript?   
+**So: Why Phaser? Why Javascript?**
+
 This was actually a whole crisis I had when researching ways to make video games. I knew what scratch was and I know how to make noughts and crosses with C++ (kinda) and... well that was about it to be honest.   
 
 ### Why not Python?
