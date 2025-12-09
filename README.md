@@ -1,7 +1,7 @@
 # I'm A HackSussex GameJam Winner??!!??
 Soooo we won three categories?? Mental! This was my first in person hackathon, our first Hackathon as a team, and my teammates first EVER Hackathon, and really we were just aiming to win something (even if it was The Hackiest Hack). Over the month of November I began familiarising myself with Javascript, as I felt this familiarity could be helpful in the future. I did not, however, predict that this decision would result in winning my fist Hackathon - especially as a two-person team (we'll get onto that later). 
 
-**As a WARNING: This is an informal blog-style README. I will be adding a more proffessional one later (similar to our Devpost submission), but I thought it would be best to document the process of making Password Quest whilst it was still fresh in my mind. I also want this as something to look back on, because I was in shock for two days after winning and the weekend went by in a blur. If you can't tell, I am sososososoo thankful and I can't wait to start my next project!**   
+**As A WARNING: This is an informal blog-style README. I will be adding a more proffessional one later (similar to our Devpost submission), but I thought it would be best to document the process of making Password Quest whilst it was still fresh in my mind. I also want this as something to look back on, because I was in shock for two days after winning and the weekend went by in a blur. If you can't tell, I am sososososoo thankful and I can't wait to start my next project!**   
   
 ## The Other Entries:
 Before I get started, I want to highlight the other amazing entries (as well as the one that got banned because I thought it was one of the best). Check out all the other amazing entries in the Devpost link below:
