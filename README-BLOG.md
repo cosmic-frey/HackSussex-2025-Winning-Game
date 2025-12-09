@@ -1,5 +1,5 @@
 # I'm A HackSussex GameJam Winner??!!??
-Soooo we won three categories?? Mental! This was my first in person hackathon, our first Hackathon as a team, and my teammates first EVER Hackathon, and really we were just aiming to win something (even if it was The Hackiest Hack). Over the month of November I began familiarising myself with Javascript, as I felt this familiarity could be helpful in the future. I did not, however, predict that this decision would result in winning my fist Hackathon - especially as a two-person team (we'll get onto that later). 
+Soooo we won three categories?? Mental! This was my first in person hackathon, our first Hackathon as a team, and my teammates first EVER Hackathon! We were really just aiming to win something (even if it was The Hackiest Hack), and if all else failed we really just wanted to create something 'playable'. Over the month of November I began familiarising myself with Javascript (through my previous online hackathon), as I felt this familiarity could be helpful in the future. I did not, however, predict that this decision would result in winning my fist Hackathon - especially as a two-person team (we'll get onto that later). 
 
 ![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/winning%20devpost.png)
 
@@ -183,7 +183,32 @@ Having avoided needing to ask for help for nearly 24 hours, I finally needed to.
    
 I am so thankful for how helpful people were at this event, and how good they were at explaining problems. There are still some backend bugs I need to fix. These fixes will happen gradually over the next few weeks/months (I'm in my final year of university at the moment). Debugging through the console has been a game changer, and it's also helpful for returning to a project (as I find this method acts as comments for errors).
 
-## Non-Technical Things I Learnt From Attending My First In-Person Hackathon:
+## Feedback We Got, and What Worked In Judging:
+### Our approach:
+
+### What worked (from feedback):
+
+## Non-Technical Things I Learnt From Attending My First In-Person Hackathon (Some are a bit TMI):
+- Turns out, I stress sweat ALOT during time-pressured events.
+  - Bring more deodorant
+  - Bring body spray
+  - Bring scented body butter
+  - Bring perfume
+  - Bring a change of clothes (obvious in hindsight)
+- I only peed once over the 24 hour period
+  - Next time, I will need to set timers reminding me to take toilet breaks
+- I lost a whole chunk of hair after getting it tangled in my lanyard
+  - Next time: Tie up hair
+  - (How have I lost more hair at a hackathon than in powerlifting?)
+- The food is good, but bringing more supplies (such as sugar free + caffeine free drinks) would be helpful next time
+- People are a lot more open to chatting after judging has finished
+- People, who were previously not interested in chatting, will come up to talk to you after you win
+- Having a group of friends to form a team and stay over night at the event sounds super fun and I want to do that next time (also more optimal, as the hour I spent going to our accomodation and back could have been spent sleeping/fixing bugs)
+- If you're blonde or have coloured hair, you will be referred to by its colour (helpful because you're recognisable, less helpful because no one will remember your name).
+- When you say you do Biology during judging, lots of suspicious whispering will commence
+  - When you follow this up by saying you go to an Oxbridge University, the whispering becomes less suspicious, but still continues.
+- If the judges ask more questions, this is a good sign
+  - If they come up to you to 'clarify' questions after judging, this is an even better sign
 
 
 
