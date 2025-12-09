@@ -7,7 +7,7 @@ Soooo we won three categories?? Mental! This was my first in person hackathon, o
 Before I get started, I want to highlight the other amazing entries (as well as the one that got banned because I thought it was one of the best). Check out all the other amazing entries in the Devpost link below:
 [https://hacksussex-gamejam-2025.devpost.com/project-gallery]
 
-**My two-cents as someone new to Hackathons:** The project that got banned, in my opinion, was banned for unfair reasons as they changed the name (that had in-direct sexual connotations) prior to judging, so the reason for it being banned no longer applied. The group that made it are absolutely cracked and honestly are more proficient and knowledgable than some of the people iI know in tech. The mobile app they made was functional, interactive and funny - if I get a link to their GitHub I'll link it down below. (Also, they helped me in the last few minutes of submission when all my backend code broke, I couldn't make my URL work, and I was about to cry. The speed they went through my checks was off the charts, and although they couldn't help me fix whatever I did wrong with the backend code, they helped me with the mistake I had made with creating my URL (which we were so greatful for), and also introduced me to GitHub Desktop (which embarassingly I didn't know existed).)
+**My two-cents as someone new to Hackathons:** I don't neccesarily agree with why one game got banned, as they changed the name prior to judging (so the reason for it being banned no longer applied prior to the ban). The mobile app they made was functional, interactive and funny - if I get a link to their GitHub I'll link it down below. 
 
 ## The Game - Password Quest:
 
@@ -102,6 +102,7 @@ After installing all our packages, implementing the basic backbone of our code (
 ### Jumping mechanics are actually a nightmare that I still need to fix:
 
 ### Backend is actually really hard:
+Having avoided needing to ask for help, a member of the team who's game got banned helped me in the last few minutes of submission when all my backend code broke, I couldn't make my URL work, and I was about to cry. The speed they went through my checks was off the charts, and although they couldn't help me fix whatever I did wrong with the backend code, they helped me with the mistake I had made with creating my URL, and also introduced me to GitHub Desktop (which embarassingly I didn't know existed). I am so thankful for how helpful people were at this event, and how good they were at explaining problems (qualities that you struggle to find at my university).
 
 
 
