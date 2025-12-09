@@ -1,28 +1,19 @@
-# I'm A HackSussex Winner??!!??
-Soooo we won three categories?? Mental! This our first in person hackathon, and really we were just aiming to win something (even if it was Hackiest Hack). Over the month of November I began familiarising myself with Javascript, as I felt this familiarity could be helpful in the long run. I did not however, predict that this decision would result in winning my fist Hackathon - especially as a two-person team (we'll get onto that later). 
+# I'm A HackSussex GameJam Winner??!!??
+Soooo we won three categories?? Mental! This was my first in person hackathon, our first Hackathon as a team, and my teammates first EVER Hackathon, and really we were just aiming to win something (even if it was The Hackiest Hack). Over the month of November I began familiarising myself with Javascript, as I felt this familiarity could be helpful in the future. I did not, however, predict that this decision would result in winning my fist Hackathon - especially as a two-person team (we'll get onto that later). 
 
-**As a WARNING: This is a very informal blog-style README. I will be adding a more proffessional one later, but I thought it would be best to document the process of making Password Quest whilst it was still fresh in my mind. I also want this as something to look back on, because I was in shock for two days after winning and the weekend went by in a blur.**   
+**As a WARNING: This is a very informal blog-style README. I will be adding a more proffessional one later (similar to our Devpost submission), but I thought it would be best to document the process of making Password Quest whilst it was still fresh in my mind. I also want this as something to look back on, because I was in shock for two days after winning and the weekend went by in a blur. If you can't tell, I am sososososoo thankful and I can't wait to start my next project!**   
   
 ## The Other Entries:
-Before I get started, I want to highlight the other amazing entries (as well as the one that got banned as I thought that one was actually one of the best). Check out all the other amazing entries in the Devpost link below:
+Before I get started, I want to highlight the other amazing entries (as well as the one that got banned because I thought it was one of the best). Check out all the other amazing entries in the Devpost link below:
 [https://hacksussex-gamejam-2025.devpost.com/project-gallery]
 
-The project that got banned, in my opinion, was banned for unfair reasons as they changed the name (that had sexual connotations) prior to judging, so the reason for it being banned no longer applied. The group that made it are absolutely cracked and honestly are more proficient and knowledgable than some of the people iI know in tech. The mobile app they made was functional, interactive and funny - if I get a link to their GitHub I'll link it down below. (Also, they helped me in the last few minutes of submission when all my backend code broke, I couldn't make my URL work, and I was about to cry. The speed they went through my checks was off the charts, and although they couldn't help me fix whatever I did wrong with the backend code, they helped me with the mistake I had made with creating my URL (which we were so greatful for), and also introduced me to GitHub Desktop (which embarassingly I didn't know existed).)
+**My two-cents as someone new to Hackathons:** The project that got banned, in my opinion, was banned for unfair reasons as they changed the name (that had in-direct sexual connotations) prior to judging, so the reason for it being banned no longer applied. The group that made it are absolutely cracked and honestly are more proficient and knowledgable than some of the people iI know in tech. The mobile app they made was functional, interactive and funny - if I get a link to their GitHub I'll link it down below. (Also, they helped me in the last few minutes of submission when all my backend code broke, I couldn't make my URL work, and I was about to cry. The speed they went through my checks was off the charts, and although they couldn't help me fix whatever I did wrong with the backend code, they helped me with the mistake I had made with creating my URL (which we were so greatful for), and also introduced me to GitHub Desktop (which embarassingly I didn't know existed).)
 
-## The Game:
+## The Game - Password Quest:
 
 We created a Multi-level 2D game using Javascript (phaser.js) in vscode, which followed our magical protagonist on a quest to defeat the dragon who stole his personal data. Our end product was a working game we named Password Quest, which included a narrated intro-video and narrated outro-page (we used ElevenLabs for all audio, including narration).
    
-Password Quest investigated themes of personal privacy, shadow threats and the importance of altruism in internet safety, winning three prize categories in total from two awarding bodies.   
-
-
-### Game structure:  
-(This is a written breakdown of our game structure however, if you are a more visual learner, there are stills at the end of the README for each section noted in this list.)
-**1) Intro-Video:**  
-The intro video sets the scene for the plot. To make this we used AI generated art that we pixelised for the opening scene, Canva, Piskel (for the dragon and crying scene) and ElevenLabs for the narration and background music.  
-**2) Level 1:**   
-Level 1 was set up as a moving platformer, and the aim of this level was to
-
+Password Quest investigated themes of personal privacy, shadow threats and the importance of altruism in internet safety, winning three prize categories in total from two awarding bodies.  
 
 ## The Winning Categories:
 These winning categories were:
@@ -32,10 +23,35 @@ These winning categories were:
 
 ### Judging Criteria for the Categories we won:
 - **BCS Chartered Institute for IT:**
+  - Intuitive Design and ease of use - "Is the game easy to pick up?" **(10 points)**
+  - Thematic impact: Online Safety - "Does it incorporate the theme of digital shadows/safety?" **(10 points)**
+  - Innovation and Mechanics - "How creatively are mechanics used for invisible/hidden?" **(10 points)**
+  - Technical Excellence and Robustness - "Quality - is the solution technically sound?" **(10 points)**
+  - Ethical Design and Inclusivity - "Social responsibility, Does the solution consider wider impact?" **(10 points)**
 
 - **MLH Best Use of Auth0:**
+  - The best game that makes a login with Auth0 wins!
 
 - **MLH Best Use of Vultr:**
+  - The best game that is deployed to the cloud with Vultr wins!
+   
+## Game structure - Password Quest:  
+(This is a written breakdown of our game structure however, including video game stills if you are a more visual learner.)
+**1) Intro-Video:**  
+The intro video sets the scene for the plot. To make this we used AI generated art that we pixelised for the opening scene, Canva, Piskel (for the dragon and crying scene) and ElevenLabs for the narration and background music. 
+**2) Concept:**   
+You need to collect Password tokens (coins) in order to defeat the dragon at the final level. There are elements of the first two levels that will try to stop you from achieving this. The game has setting split into Easy, Medium and Hard for all three levels (i.e. if Easy is chosen at the beginning, then all levels (1, 2 and 3) will be in Easy mode unless the game is restarted and a new mode is selected).   
+**3) Level 1:**   
+Level 1 was set up as a moving platformer, and the aim of this level was to collect as many Password tokens (coins) as possible, and avoid colliding with shadow threats by casting spells to explode them (as they will steal your password tokens) in 60 seconds. This level is made harder in Medium and Hard by the platform speed increasing, the fixed probability of a shadow threat appearing over a set time period increasing, and the time period for the probability of a shadow threat appearing decreasing (more periods in 60 seconds = more likely).   
+**4) Level 2:**   
+This level is based around the importance of **altruism.** Level 2 is based around flappy bird mechanics (called 'tap to fly' in Phaser for Desktop) and lasts 45 seconds. The aim to collect Password tokens (coins) is still the same in Level 2, however you need to collect warning signals in order to take these tokens into Level 3. Collecting a warning token means that you are warning people back home that your personal data has been compromised, which is important as this can help them protect their own data too. If you collide with a shadow threat, you lose all coins and warning signals collected so far in Level 2 and fall to the bottom of the page - so you need to collect more quickly before the time runs out! This level is made harder in Medium and Hard modes by the screen scrolling faster (like in Level 1) and the density of shadow threats increasing (so they are harder to avoid).   
+**5) Level 3:**   
+This is The Boss Fight Level. The more warning signals you collect in Level 2, the more spells you have in reserve. The protagonist stands on one platform and the dragon stands on the other. Each take turns taking two shots at the other, the protagonist uses magic to attack and the dragon uses fire balls to attack (both based off the same particle system as in Level 1). You can jump to avoid being hit (currently the physics for jumping needs to be fixed for the Easy mode as it is quite hard), and so can the dragon! The probability that the dragon successfully avoids being hit increases in Medium and Hard modes.   
+**6) Scoring:**
+Your score is calculated by the total number of coins you collect divided by the time it takes you to defeat the dragon. These scores are seperated by mode so that a higher score in Easy mode doesn't trump an equally impressive score in Medium/Hard mode.   
+**7) Educational End-screen:**   
+When you defeat the dragon, you are given your overall score and taken to an end screen. The educational end screen contains links to a variety of online resources related to online safety and phishing scams from reputable UK institutions (including a variety for children/young people, families, working professionals, adults and the elderly). This end-screen is Narrated by the same narrator as the intro-video, and rounds off your victory by warning you of the dangers of phishing scams in the real world and highlighting the links on the page to encourage you to learn more.
+
 
 ## How Tasks were split-up:
 Initially we were supposed to be part of a larger team. However, pessimistically I dreamt that this all went wrong the night before (I hate having prophetic dreams the night before a big deadline), so I readied myself for this eventuality. Our other two teammates had uni deadlines (which is so valid, I feel for anyone who has January exams), and my teammate (Jabez, one of my closest friends from Sixth Form) had committments in the evening which were to watch his flatmate in a performace and sleep 6-9 hours (both valid and I would have done the same in his position, I did regret onl sleeping 4-5 hours the following Monday).   
