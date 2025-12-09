@@ -37,6 +37,7 @@ These winning categories were:
 
 - **MLH Best Use of Vultr:**
   - The best game that is deployed to the cloud with Vultr wins!
+
    
 ## Game structure - Password Quest:  
 (This is a written breakdown of our game structure, including video game stills for visual learners.)  
@@ -232,6 +233,13 @@ I am so thankful for how helpful people were at this event, and how good they we
 - When you say you do Biology during judging, lots of suspicious whispering will commence
   - When you follow this up by saying you go to an Oxbridge University, the whispering becomes less suspicious, but still continues.
 
+## Game Demo:
+Coming soon....
+
+## Game link:
+Please note: I am aware of the bugs - I will be fixing them. This link is temporary, and will be updated with a proper domain name once all bugs are fixed (such as account saving, data storage consent, leaderboard generation, etc).    
+   
+Temporary Link: [https://cosmic-frey.github.io/]
 
 
 
