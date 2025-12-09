@@ -1,6 +1,8 @@
 # I'm A HackSussex GameJam Winner??!!??
 Soooo we won three categories?? Mental! This was my first in person hackathon, our first Hackathon as a team, and my teammates first EVER Hackathon, and really we were just aiming to win something (even if it was The Hackiest Hack). Over the month of November I began familiarising myself with Javascript, as I felt this familiarity could be helpful in the future. I did not, however, predict that this decision would result in winning my fist Hackathon - especially as a two-person team (we'll get onto that later). 
 
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/winning%20devpost.png)
+
 **As A WARNING: This is an informal blog-style README. I will be adding a more proffessional one later (similar to our Devpost submission), but I thought it would be best to document the process of making Password Quest whilst it was still fresh in my mind. I also want this as something to look back on, because I was in shock for two days after winning and the weekend went by in a blur. If you can't tell, I am sososososoo thankful and I can't wait to start my next project!**   
   
 ## The Other Entries:
@@ -40,18 +42,34 @@ These winning categories were:
    
 **1) Intro-Video:**    
 The intro video sets the scene for the plot. To make this we used AI generated art that we pixelised for the opening scene, Canva, Piskel (for the dragon and crying scene) and ElevenLabs for the narration and background music.    
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/intro%20video.png)   
+
+**Loading Screen:**    
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/loading%20screen.png)
    
 **2) Concept:**     
 You need to collect Password tokens (coins) in order to defeat the dragon at the final level. There are elements of the first two levels that will try to stop you from achieving this. The game has setting split into Easy, Medium and Hard for all three levels (i.e. if Easy is chosen at the beginning, then all levels (1, 2 and 3) will be in Easy mode unless the game is restarted and a new mode is selected).   
-   
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/game%20intro.png)
+ 
 **3) Level 1:**   
 Level 1 was set up as a moving platformer, and the aim of this level was to collect as many Password tokens (coins) as possible, and avoid colliding with shadow threats by casting spells to explode them (as they will steal your password tokens) in 60 seconds. This level is made harder in Medium and Hard by the platform speed increasing, the fixed probability of a shadow threat appearing over a set time period increasing, and the time period for the probability of a shadow threat appearing decreasing (more periods in 60 seconds = more likely).   
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/level%201%20intro.png)
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/level%201%20game.png)
    
 **4) Level 2:**   
-This level is based around the importance of **altruism.** Level 2 is based around flappy bird mechanics (called 'tap to fly' in Phaser for Desktop) and lasts 45 seconds. The aim to collect Password tokens (coins) is still the same in Level 2, however you need to collect warning signals in order to take these tokens into Level 3. Collecting a warning token means that you are warning people back home that your personal data has been compromised, which is important as this can help them protect their own data too. If you collide with a shadow threat, you lose all coins and warning signals collected so far in Level 2 and fall to the bottom of the page - so you need to collect more quickly before the time runs out! This level is made harder in Medium and Hard modes by the screen scrolling faster (like in Level 1) and the density of shadow threats increasing (so they are harder to avoid).  
+This level is based around the importance of **altruism.** Level 2 is based around flappy bird mechanics (called 'tap to fly' in Phaser for Desktop) and lasts 45 seconds. The aim to collect Password tokens (coins) is still the same in Level 2, however you need to collect warning signals in order to take these tokens into Level 3. Collecting a warning token means that you are warning people back home that your personal data has been compromised, which is important as this can help them protect their own data too. If you collide with a shadow threat, you lose all coins and warning signals collected so far in Level 2 and fall to the bottom of the page - so you need to collect more quickly before the time runs out! This level is made harder in Medium and Hard modes by the screen scrolling faster (like in Level 1) and the density of shadow threats increasing (so they are harder to avoid).   
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/level%202%20intro.png)
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/level%202%20game.png)
    
 **5) Level 3:**   
-This is The Boss Fight Level. The more warning signals you collect in Level 2, the more spells you have in reserve. The protagonist stands on one platform and the dragon stands on the other. Each take turns taking two shots at the other, the protagonist uses magic to attack and the dragon uses fire balls to attack (both based off the same particle system as in Level 1). You can jump to avoid being hit (currently the physics for jumping needs to be fixed for the Easy mode as it is quite hard), and so can the dragon! The probability that the dragon successfully avoids being hit increases in Medium and Hard modes.  
+This is The Boss Fight Level. The more warning signals you collect in Level 2, the more spells you have in reserve. The protagonist stands on one platform and the dragon stands on the other. Each take turns taking two shots at the other, the protagonist uses magic to attack and the dragon uses fire balls to attack (both based off the same particle system as in Level 1). You can jump to avoid being hit (currently the physics for jumping needs to be fixed for the Easy mode as it is quite hard), and so can the dragon! The probability that the dragon successfully avoids being hit increases in Medium and Hard modes.    
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/level%203%20intro.png)
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/level%203%20game.png)
+
+**Fight Dynamics - Protagonist:**   
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/level%203%20fight%20dynamics%20(protagonist).png)    
+**Fight Dynamics - Dragon:**   
+![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/level%203%20fight%20dynamics%20(dragon).png)
    
 **6) Scoring:**    
 Your score is calculated by the total number of coins you collect divided by the time it takes you to defeat the dragon. These scores are seperated by mode so that a higher score in Easy mode doesn't trump an equally impressive score in Medium/Hard mode.     
