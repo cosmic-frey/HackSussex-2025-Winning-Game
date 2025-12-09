@@ -3,13 +3,14 @@ Soooo we won three categories?? Mental! This was my first in person hackathon, o
 
 ![image](https://github.com/cosmic-frey/HackSussex-2025-Winning-Game/blob/main/password%20quest%20stills/winning%20devpost.png)
 
-**As A WARNING: This is an informal blog-style README. I will be adding a more proffessional one later (similar to our Devpost submission), but I thought it would be best to document the process of making Password Quest whilst it was still fresh in my mind. I also want this as something to look back on, because I was in shock for two days after winning and the weekend went by in a blur. If you can't tell, I am sososososoo thankful and I can't wait to start my next project!**   
+**This is an informal blog-style README. I will be adding a more proffessional one later (similar to our Devpost submission), but I thought it would be best to document the process of making Password Quest whilst it was still fresh in my mind. I also want this as something to look back on, because I was in shock for two days after winning and the weekend went by in a blur.    
+If you can't tell, I am sososososoo thankful and I can't wait to start my next project!**   
   
 ## The Other Entries:
-Before I get started, I want to highlight the other amazing entries (as well as the one that got banned because I thought it was one of the best). Check out all the other amazing entries in the Devpost link below:
+Before I get started, I want to highlight the other amazing entries. Check out all the other amazing entries in the Devpost link below:
 [https://hacksussex-gamejam-2025.devpost.com/project-gallery]
 
-**My two-cents as someone new to Hackathons:** I don't neccesarily agree with why one game got banned, as they changed the name prior to judging (so the reason for it being banned no longer applied). The mobile app they made was functional, interactive and funny - if I get a link to their GitHub I'll link it down below. 
+
 
 ## The Game - Password Quest:
 
