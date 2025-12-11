@@ -10,8 +10,6 @@ If you can't tell, I am sososososoo thankful and I can't wait to start my next p
 Before I get started, I want to highlight the other amazing entries. Check out all the other amazing entries in the Devpost link below:
 [https://hacksussex-gamejam-2025.devpost.com/project-gallery]
 
-
-
 ## The Game - Password Quest:
 
 We created a Multi-level 2D game using Javascript (phaser.js) in vscode, which followed our magical protagonist on a quest to defeat the dragon who stole his personal data. Our end product was a working game we named Password Quest, which included a narrated intro-video and narrated outro-page (we used ElevenLabs for all audio, including narration).
@@ -230,10 +228,6 @@ I am so thankful for how helpful people were at this event, and how good they we
 - If the judges ask more questions, this is a good sign
   - If they come up to you to 'clarify' questions after judging, this is an even better sign
 
-**Comments noted in Jest:**
-- When you say you do Biology during judging, lots of suspicious whispering will commence
-  - When you follow this up by saying you go to an Oxbridge University, the whispering becomes less suspicious, but still continues.
-
 ## Game Demo:
 Coming soon....
 
@@ -241,6 +235,10 @@ Coming soon....
 Please note: I am aware of the bugs - I will be fixing them. This link is temporary, and will be updated with a proper domain name once all bugs are fixed (such as account saving, data storage consent, leaderboard generation, etc).    
    
 Temporary Link: [https://cosmic-frey.github.io/]
+ 
+
+
+
 
 
 
